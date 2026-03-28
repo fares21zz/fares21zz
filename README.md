@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fares Azizi Abderraouf</h1>
+<h1 align="center">HELLO Community, WLC to Fares page</h1>
 
-<h3 align="center">Embedded Systems & Robotics Engineering Student 🤖</h3>
+<h3 align="center">Embedded Systems & Robotics Engineering Student at university of science and technology houari boumediene
+  USTHB 🤖</h3>
 
 <p align="center">
   <img src="banner.jpg" width="100%" alt="banner">
@@ -8,17 +9,17 @@
 
 ---
 
-## 🌟 About Me
+  ## 🌟 About Me
 <p align="center">
-🎓 Student in Electronics of Embedded Systems at USTHB <br>
-🤖 Passionate about Robotics, IoT & Autonomous Systems <br>
-⚡ Currently working on a Delivery Robot <br>
-🛠️ I love building real-world hardware + software systems
+ Student in Electronics of Embedded Systems at USTHB <br>
+ Passionate about Robotics, IoT & Autonomous Systems <br>
+ Currently working on a Delivery Robot <br>
+ I love building real-world hardware + software systems
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+  ## 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
@@ -48,38 +49,30 @@
 
 ---
 
-## 🚀 Projects
+  ##  Projects
 
-### 🤖 Delivery Robot
+###  Delivery Robot
 <p align="center">
 Autonomous navigation using LiDAR & GPS <br>
 STM32 + ESP32 architecture <br>
 Obstacle detection and real-time control
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/fares-azizi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
 
-  <a href="mailto:your@email.com">
+  <a href="mailto:azizifares2003@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="50"/>
   </a>
 
-  <a href="https://discord.com/users/YOUR-ID" target="_blank">
+  <a href="https://discord.com/users/fares1341" target="_blank">
     <img src="https://cdn.simpleicons.org/discord" width="50"/>
   </a>
 </p>
@@ -87,5 +80,5 @@ Obstacle detection and real-time control
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a>
+⭐ From <a href="https://github.com/fares21zz">YOUR-USERNAME</a>
 </p>
