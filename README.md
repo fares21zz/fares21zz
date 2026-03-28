@@ -26,18 +26,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50"/>
 </p>
 
 <p align="center">
-  <!-- FIXED working logos -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/STM32_logo.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/ROS_logo.svg" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Autodesk_Fusion_360_Logo.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/EasyEDA_logo.png" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/matlab" width="50"/>
+  <img src="https://cdn.simpleicons.org/autodesk" width="50"/>
+  <img src="https://cdn.simpleicons.org/kicad" width="50"/>
+  <img src="https://cdn.simpleicons.org/easyeda" width="50"/>
+  <img src="https://cdn.simpleicons.org/xilinx" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ros" width="60"/>
 </p>
 
 ---
@@ -70,19 +76,12 @@ Obstacle detection and real-time control
   </a>
 
   <a href="mailto:your@email.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+    <img src="https://cdn.simpleicons.org/gmail" width="50"/>
   </a>
 
   <a href="https://discord.com/users/YOUR-ID" target="_blank">
     <img src="https://cdn.simpleicons.org/discord" width="50"/>
   </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-<p align="center">
-💡 I build robots that interact with the real world!
 </p>
 
 ---
