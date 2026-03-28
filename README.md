@@ -7,9 +7,8 @@
 </p>
 
 ---
-
-## 🌟 About Me
 <p align="center">
+## 🌟 About Me
 🎓 Student in Electronics of Embedded Systems at USTHB <br>
 🤖 Passionate about Robotics, IoT & Autonomous Systems <br>
 ⚡ Currently working on a Delivery Robot <br>
