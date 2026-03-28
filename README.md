@@ -8,10 +8,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Student in Electronics of Embedded Systems at USTHB  
-- 🤖 Passionate about Robotics, IoT & Autonomous Systems  
-- ⚡ Currently working on a Delivery Robot project  
-- 🛠️ I enjoy building real-world hardware + software solutions  
+-  Student in Electronics of Embedded Systems at USTHB  
+-  Passionate about Robotics, IoT & Autonomous Systems  
+-  Currently working on a Delivery Robot project  
+- I enjoy building real-world hardware + software solutions  
 
 ---
 
@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/fares-azizi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:azizifares2003@email.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
