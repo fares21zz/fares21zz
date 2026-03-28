@@ -16,7 +16,7 @@
 Currently working on a Delivery Robot <br>
 </p>
 <p align="center">
-  <a href="[Fares_Azizi_CV.pdf](https://www.canva.com/design/DAGX3lKrkcU/Keu9eif4AiQ6rTGWT5jRrA/edit?utm_content=DAGX3lKrkcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="_blank">
+  <a href="[https://www.canva.com/design/DAGX3lKrkcU/Keu9eif4AiQ6rTGWT5jRrA/edit?utm_content=DAGX3lKrkcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]" target="_blank">
     <img src="https://img.shields.io/badge/View%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
