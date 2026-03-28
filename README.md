@@ -22,17 +22,21 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/STM32_logo.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Autodesk_Fusion_360_Logo.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50"/>
 </p>
 
 <p align="center">
+  <!-- FIXED working logos -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/STM32_logo.svg" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/ROS_logo.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Autodesk_Fusion_360_Logo.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/EasyEDA_logo.png" width="60"/>
 </p>
 
@@ -61,11 +65,16 @@ Obstacle detection and real-time control
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
+
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+  </a>
+
+  <a href="https://discord.com/users/YOUR-ID" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord" width="50"/>
   </a>
 </p>
 
