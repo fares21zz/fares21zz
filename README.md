@@ -1,7 +1,7 @@
 <h1 align="center">HELLO Community, WLC to Fares page</h1>
 
 <h3 align="center">Embedded Systems & Robotics Engineering Student at university of science and technology houari boumediene
-  USTHB 🤖</h3>
+  USTHB </h3>
 
 <p align="center">
   <img src="banner.jpg" width="100%" alt="banner">
@@ -13,8 +13,7 @@
 <p align="center">
  Student in Electronics of Embedded Systems at USTHB <br>
  Passionate about Robotics, IoT & Autonomous Systems <br>
- Currently working on a Delivery Robot <br>
- I love building real-world hardware + software systems
+Currently working on a Delivery Robot <br>
 </p>
 
 ---
@@ -68,7 +67,7 @@ Obstacle detection and real-time control
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
 
-  <a href="mailto:azizifares2003@gmail.com">
+  <a href="mailto:azizifares2003@email.com">
     <img src="https://cdn.simpleicons.org/gmail" width="50"/>
   </a>
 
@@ -80,5 +79,5 @@ Obstacle detection and real-time control
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/fares21zz">YOUR-USERNAME</a>
+⭐ From <a href="https://github.com/fares21zz">fares21zz</a>
 </p>
