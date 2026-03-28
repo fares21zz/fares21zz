@@ -15,7 +15,7 @@
  Passionate about Robotics, IoT & Autonomous Systems <br>
 Currently working on a Delivery Robot <br>
 </p>
-(my CV)[https://www.canva.com/design/DAGX3lKrkcU/Keu9eif4AiQ6rTGWT5jRrA/edit?utm_content=DAGX3lKrkcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 
 
 ---
