@@ -1,6 +1,6 @@
 <h1 align="center">HELLO Community, WLC to Fares page</h1>
 
-<h3 align="center">Embedded Systems & Robotics Engineering Student at university of science and technology houari boumediene
+<h3 align="center">Embedded Systems Engineering Student at university of science and technology houari boumediene
   USTHB </h3>
 
 <p align="center">
