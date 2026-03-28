@@ -1,6 +1,6 @@
 <h1 align="center">HELLO Community, WLC to Fares page</h1>
 
-<h3 align="center">Embedded Systems Engineering Student at university of science and technology houari boumediene
+<h3 align="center"> hi I'm fares , Embedded Systems Engineering Student at university of science and technology houari boumediene
   USTHB </h3>
 
 <p align="center">
@@ -9,16 +9,39 @@
 
 ---
 
-  ## 🌟 About Me
+  ##  About Me
 <p align="center">
  Student in Electronics of Embedded Systems at USTHB <br>
  Passionate about Robotics, IoT & Autonomous Systems <br>
 Currently working on a Delivery Robot <br>
 </p>
+<p align="center">
+  <a href="Fares_Azizi_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+</p>
+
+---
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/fares-azizi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+
+  <a href="mailto:azizifares2003@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="50"/>
+  </a>
+
+  <a href="https://discord.com/users/fares1341" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord" width="50"/>
+  </a>
+</p>
 
 ---
 
-  ## 🧰 Tools & Technologies
+
+  ##  Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
@@ -53,30 +76,13 @@ Currently working on a Delivery Robot <br>
 ###  Delivery Robot
 <p align="center">
 Autonomous navigation using LiDAR & GPS <br>
-STM32 + ESP32 architecture <br>
+ESP32 architecture <br>
 Obstacle detection and real-time control
 </p>
 
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/fares-azizi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-  </a>
-
-  <a href="mailto:azizifares2003@email.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="50"/>
-  </a>
-
-  <a href="https://discord.com/users/fares1341" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord" width="50"/>
-  </a>
-</p>
-
----
 
 <p align="center">
 ⭐ From <a href="https://github.com/fares21zz">fares21zz</a>
