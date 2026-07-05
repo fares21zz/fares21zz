@@ -20,7 +20,7 @@
 
 
 
-  ##  About Me <br>
+  ##                                  About Me <br>
 <p align="center">
 graduate Master in Electronics of Embedded Systems (USTHB), specialized in electronic design, PCB and robotic architectures ROS2. Author of the AutoDeliv graduation project, an autonomous delivery robot, with full responsibility for hardware and electronics. Solid experience of robotic projects in a team, from design to manufacturing. 
 </p>
