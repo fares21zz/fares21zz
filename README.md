@@ -8,6 +8,18 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:0A1F44&height=220&section=header&text=Hello%20Community,%20I'm%20Fares!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+<h3 align="center">Embedded Systems Engineer | Robotics & Autonomous Systems</h3>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E5EAA&center=true&vCenter=true&width=600&lines=Building+AutoDeliv+%F0%9F%9A%80;Autonomous+Delivery+Robot;Embedded+Systems+%7C+ROS2+%7C+PCB+Design" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="banner">
+</p>
+
 
   ##  About Me
 <p align="center">
