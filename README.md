@@ -1,13 +1,3 @@
-<h1 align="center">HELLO Community, WLC to Fares page</h1>
-
-<h3 align="center"> hi I'm fares , Embedded Systems Engineering Student at university of science and technology houari boumediene
-  USTHB </h3>
-
-<p align="center">
-  <img src="banner.jpg" width="100%" alt="banner"> 
-</p>
-
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:0A1F44&height=220&section=header&text=Hello%20Community,%20I'm%20Fares!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -19,6 +9,16 @@
 <p align="center">
   <img src="banner.jpg" width="100%" alt="banner">
 </p>
+
+<h3 align="center"> hi I'm fares , Embedded Systems Engineering Student at university of science and technology houari boumediene
+  USTHB </h3>
+
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="banner"> 
+</p>
+
+---
+
 
 
   ##  About Me
