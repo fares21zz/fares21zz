@@ -22,9 +22,7 @@
 
   ##  About Me
 <p align="center">
- Student in Electronics of Embedded Systems at USTHB <br>
- Passionate about Robotics, IoT & Autonomous Systems <br>
-Currently working on a Delivery Robot <br>
+graduate Master in Electronics of Embedded Systems (USTHB), specialized in electronic design, PCB and robotic architectures ROS2. Author of the AutoDeliv graduation project, an autonomous delivery robot, with full responsibility for hardware and electronics. Solid experience of robotic projects in a team, from design to manufacturing. <br>
 </p>
 
 
