@@ -4,7 +4,7 @@
   USTHB </h3>
 
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="banner">
+  <img src="banner.jpg" width="100%" alt="banner"> 
 </p>
 
 ---
