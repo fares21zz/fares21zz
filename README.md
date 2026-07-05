@@ -10,8 +10,7 @@
   <img src="banner.jpg" width="100%" alt="banner">
 </p>
 
-<h3 align="center"> hi I'm fares , Embedded Systems Engineering Student at university of science and technology houari boumediene
-  USTHB </h3>
+
 
 <p align="center">
   <img src="banner.jpg" width="100%" alt="banner"> 
