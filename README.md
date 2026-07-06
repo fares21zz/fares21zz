@@ -23,14 +23,13 @@
   ##      <h1 align="center"> About Me</h1>
 <p align="center">
 graduate Master in Electronics of Embedded Systems (USTHB), specialized in electronic design, PCB and robotic architectures ROS2. Author of the AutoDeliv graduation project, an autonomous delivery robot, with full responsibility for hardware and electronics. Solid experience of robotic projects in a team, from design to manufacturing. 
-badge&logo=discord&logoColor=white" /> </a>
-<a href="./CV_Fares_Azizi.pdf" target="_blank">
+
 </p>
 
 
 
 ---
-## 🌐 Connect with Me
+##  <h1 align="center">🌐 Connect with Me </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/fares-azizi" target="_blank">
@@ -49,7 +48,7 @@ badge&logo=discord&logoColor=white" /> </a>
 ---
 
 
-  ##  Tools & Technologies
+  ##  <h1 align="center">  Tools & Technologies </h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
