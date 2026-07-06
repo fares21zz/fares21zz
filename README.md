@@ -1,23 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:0A1F44&height=220&section=header&text=Hello%20Community,%20I'm%20Fares!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5EAA,100:0A1F44&height=220&section=header&text=Hello%20Community,%20I'm%20Fares!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
 </p>
 <h3 align="center">Embedded Systems Engineer | Robotics & Autonomous Systems</h3>
- 
 <p align="center">
- font=Fira+Code&weight=500&size=22&pause=1000&color=2E5EAA&center=true&vCenter=true&width=600&lines=Building+AutoDeliv+%F0%9F%9A%80;Autonomous+Delivery+Robot;Embedded+Systems+%7C+ROS2+%7C+PCB+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E5EAA&center=true&vCenter=true&width=600&lines=Building+AutoDeliv+%F0%9F%9A%80;Autonomous+Delivery+Robot;Embedded+Systems+%7C+ROS2+%7C+PCB+Design" alt="Typing SVG" />
 </p>
 <p align="center">
-   
+  <img src="banner.jpg" width="100%" alt="banner">
 </p>
-
-
-
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="banner"> 
+  <a href="https://linkedin.com/in/fares-azizi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:azizifares2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/fares1341" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="./CV_Fares_Azizi.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-2E5EAA?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
 </p>
-
----
-
 
 
   ##      <h1 align="center"> About Me</h1>
